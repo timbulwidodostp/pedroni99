@@ -1,6 +1,8 @@
 # pedroni99
 Panel cointegration tests - bivatiate case Use pedroni99 (pco) With (In) R Software
 
+https://www.youtube.com/watch?v=vNRmaJDWMFk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
